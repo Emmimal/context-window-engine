@@ -1,0 +1,8 @@
+# context-window-engine
+# Zero external dependencies — pure Python 3.9+ stdlib only.
+# No API keys. No LLM calls. No installation required beyond Python itself.
+#
+# To verify:
+#   python -m unittest test_engine -v
+#   python demo.py
+#   python context_window_engine.py
